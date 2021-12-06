@@ -1,2 +1,2 @@
 # blackjack
-Text based version of blackjack in MatLab
+Text based version of Blackjack in MatLab
